@@ -18,7 +18,8 @@ client = TelegramClient('Telethon Anonymous Bot',
 
 DEFAULT_START = ("Hey! I am ANONYMOUS SENDER BOT.\n\n"
                  "Just Forward me some messages or media and I will anonymize the sender.\n\n"
-                 "Please support the developer by joining the support channel.")
+                 "Please support the developer by joining the support channel."
+                  "Developer Lasindu.S.Umayanga.")
 
 
 if Credentials.START_MESSAGE is not None:
